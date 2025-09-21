@@ -1,8 +1,8 @@
 [
   {
-    "name": "Composer",
+    "name": "Compor",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "tool",
     "isNew": "TRUE",
     "description": "Although the idea of dependency management ..."
   },
